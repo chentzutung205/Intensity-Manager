@@ -1,4 +1,7 @@
 # Intensity Manager
+
+Intensity Manager could be used to manage varying intensity levels for tasks like motor control, sensor activation, or path planning, where intensity changes over time or space.
+
 ## Overview
 This Python class, IntensityBySegment, allows you to manage and manipulate intensity values across various segments of a 1D number line. It supports two primary operations:
 - Add: Increment or decrement intensity within a given range
